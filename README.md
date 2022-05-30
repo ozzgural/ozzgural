@@ -1,7 +1,7 @@
-Hi there 👋
+### Hi there 👋
 Here you will find a brief information about my professional background.
 
-What do I do? 👨🏻‍💻
+### What do I do? 👨🏻‍💻
 I am a Ph.D. student at the Electrical Engineering and Computer Science Department at Embry-Riddle Aeronautical University,
 Daytona Beach. I am also a software engineer with 7 years of full-time industry experience focused on cyber security and
 autonomous systems domains. As a software engineer, I believe in the value of being a multifaceted employee, thus I’m
@@ -10,8 +10,8 @@ academic education, leadership, and entrepreneurship, among others. Therefore, I
 willing to grow, eager to sharemy knowledge, motivated towork hard, analyze the main reasons of everything, result-oriented
 with several short&long term goals.
 
-How to find me? 📨
+### How to find me? 📨
 I am present on various platforms:
 
-Linkedin: www.linkedin.com/in/uralozgur
-Twitter: www.twiter.com/ozgurural
+- Linkedin: www.linkedin.com/in/uralozgur
+- Twitter: www.twiter.com/ozgurural
