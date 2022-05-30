@@ -15,9 +15,3 @@ with several short&long term goals.
 - Large Scale System Design & Maintenance (4 years)
 - Development of Autonomous Systems (2 years)
 - Development of Cybersecurity Related Software Systems (6 years)
-
-### How to find me? 📨
-I am present on various platforms:
-
-- Linkedin: www.linkedin.com/in/uralozgur
-- Twitter: [www.twiter.com/ozgurural](https://twitter.com/ozgurural)
