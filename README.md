@@ -20,4 +20,4 @@ with several short&long term goals.
 I am present on various platforms:
 
 - Linkedin: www.linkedin.com/in/uralozgur
-- Twitter: www.twiter.com/ozgurural
+- Twitter: [www.twiter.com/ozgurural](https://twitter.com/ozgurural)
