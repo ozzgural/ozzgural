@@ -10,6 +10,19 @@ academic education, leadership, and entrepreneurship, among others. Therefore, I
 willing to grow, eager to sharemy knowledge, motivated towork hard, analyze the main reasons of everything, result-oriented
 with several short&long term goals.
 
+#### Professional Experience Summary
+- Team Leading (1 year)
+- Large Scale System Design & Maintenance (4 years)
+- Development of Autonomous Systems (2 years)
+- Development of Cybersecurity Related Software Systems (5 years)
+#### Skills
+- Languages: Python, C, C++, Java, Javascript, Bash
+- OS: Linux, Windows
+- Version Control and CI: Git, Gitlab, Jenkins, SonarQube
+- Agile Software Development, Test Driven Software Development
+- Autonomous Systems, Natural Language Processing, Desktop Application Development
+- Computer Security, Web Application Security, Cryptography, Network Security
+
 ### How to find me? 📨
 I am present on various platforms:
 
