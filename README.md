@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here you will find a brief information about my professional background.
 
-### What do I do? 👨🏻‍💻
+### What do I do?
 I am a Ph.D. student at the Electrical Engineering and Computer Science Department at Embry-Riddle Aeronautical University,
 Daytona Beach. I am also a software engineer with 7 years of full-time industry experience focused on cyber security and
 autonomous systems domains. As a software engineer, I believe in the value of being a multifaceted employee, thus I’m
