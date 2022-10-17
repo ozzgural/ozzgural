@@ -11,7 +11,7 @@ willing to grow, eager to sharemy knowledge, motivated towork hard, analyze the 
 with several short&long term goals.
 
 #### Professional Experience Summary
-- Team Leading (1 year)
-- Large Scale System Design & Maintenance (4 years)
-- Development of Autonomous Systems (2 years)
-- Development of Cybersecurity Related Software Systems (6 years)
+- Team Leading
+- Large Scale System Design & Maintenance
+- Development of Autonomous Systems 
+- Development of Cybersecurity Related Software Systems
